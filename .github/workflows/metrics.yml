@@ -48,3 +48,16 @@ jobs:
           plugin_activity: yes
           token: ${{ secrets.METRICS_TOKEN }}
 
+  habits:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@main
+        with:
+          filename: habits.svg
+          config_timezone: America/Fortaleza
+          retries: 3
+          retries_delay: 300
+          use_prebuilt_image: yes
+          base: ""
+          plugin_habits: yes
+          token: ${{ secrets.METRICS_TOKEN }}

@@ -2,4 +2,6 @@
 
 <img align="right" src="/achievements.svg" alt="Metrics" width="400" />
 
-<img align="center" src="/activity.svg" alt="Metrics" width="400" />
+<img align="left" src="/activity.svg" alt="Metrics" width="400" />
+
+<img align="left" src="/habits.svg" alt="Metrics" width="400" />
