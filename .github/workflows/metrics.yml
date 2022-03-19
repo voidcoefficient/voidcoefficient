@@ -31,6 +31,7 @@ jobs:
           base: ""
           plugin_achievements: yes
           plugin_achievements_limit: 5
+          plugin_achievements_threshold: "A"
           token: ${{ secrets.METRICS_TOKEN }}
 
   activity:
