@@ -17,6 +17,7 @@ jobs:
           retries_delay: 300
           use_prebuilt_image: yes
           token: ${{ secrets.METRICS_TOKEN }}
+
   achievements:
     runs-on: ubuntu-latest
     steps:
@@ -29,5 +30,19 @@ jobs:
           use_prebuilt_image: yes
           base: ""
           plugin_achievements: yes
+          token: ${{ secrets.METRICS_TOKEN }}
+
+  activity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@main
+        with:
+          filename: activity.svg
+          config_timezone: America/Fortaleza
+          retries: 3
+          retries_delay: 300
+          use_prebuilt_image: yes
+          base: ""
+          plugin_activity: yes
           token: ${{ secrets.METRICS_TOKEN }}
 
