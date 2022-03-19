@@ -16,6 +16,10 @@ jobs:
           retries: 3
           retries_delay: 300
           use_prebuilt_image: yes
+          extras_css: |
+            h1, h2 {
+              color: #c9d1d9
+            }
           token: ${{ secrets.METRICS_TOKEN }}
 
   achievements:
