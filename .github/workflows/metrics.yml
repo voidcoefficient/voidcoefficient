@@ -30,6 +30,7 @@ jobs:
           use_prebuilt_image: yes
           base: ""
           plugin_achievements: yes
+          plugin_achievements_limit: 5
           token: ${{ secrets.METRICS_TOKEN }}
 
   activity:
