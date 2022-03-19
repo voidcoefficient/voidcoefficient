@@ -60,4 +60,5 @@ jobs:
           use_prebuilt_image: yes
           base: ""
           plugin_habits: yes
+          plugin_habits_charts: yes
           token: ${{ secrets.METRICS_TOKEN }}
