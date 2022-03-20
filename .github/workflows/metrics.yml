@@ -69,7 +69,7 @@ jobs:
           use_prebuilt_image: yes
           base: ""
           extras_css: |
-            h1, h2 { color: #c9d1d9}
+            h1, h2, h3 { color: #c9d1d9}
             svg { color: #8b949e }
           plugin_habits: yes
           plugin_habits_charts: yes
