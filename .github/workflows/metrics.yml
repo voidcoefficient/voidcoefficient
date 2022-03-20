@@ -17,9 +17,8 @@ jobs:
           retries_delay: 300
           use_prebuilt_image: yes
           extras_css: |
-            h1, h2 {
-              color: #c9d1d9
-            }
+            h1, h2 { color: #c9d1d9}
+            svg { color: #8b949e }
           token: ${{ secrets.METRICS_TOKEN }}
 
   achievements:
@@ -33,9 +32,8 @@ jobs:
           retries_delay: 300
           use_prebuilt_image: yes
           extras_css: |
-            h1, h2 {
-              color: #c9d1d9
-            }
+            h1, h2 { color: #c9d1d9}
+            svg { color: #8b949e }
           base: ""
           plugin_achievements: yes
           plugin_achievements_limit: 5
@@ -53,9 +51,8 @@ jobs:
           retries_delay: 300
           use_prebuilt_image: yes
           extras_css: |
-            h1, h2 {
-              color: #c9d1d9
-            }
+            h1, h2 { color: #c9d1d9}
+            svg { color: #8b949e }
           base: ""
           plugin_activity: yes
           token: ${{ secrets.METRICS_TOKEN }}
@@ -70,11 +67,10 @@ jobs:
           retries: 3
           retries_delay: 300
           use_prebuilt_image: yes
-          extras_css: |
-            h1, h2 {
-              color: #c9d1d9
-            }
           base: ""
+          extras_css: |
+            h1, h2 { color: #c9d1d9}
+            svg { color: #8b949e }
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_from: 1000
