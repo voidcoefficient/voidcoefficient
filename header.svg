@@ -207,7 +207,7 @@ svg { color: #8b949e }</style>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jun 2022, 22:54:02 (timezone America/Fortaleza) with lowlighter/metrics@3.25.0-beta</span>
+                <span>Last updated 13 Jun 2022, 22:57:21 (timezone America/Fortaleza) with lowlighter/metrics@3.25.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
