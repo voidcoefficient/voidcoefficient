@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="694" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="411" class="">
     <defs>
         <style/>
     </defs>
@@ -23,39 +23,15 @@ svg { color: #8b949e }</style>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 7 commits in
-                                        <span class="repo">minsk-dev/create-t3-app-template</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">minsk-dev/create-t3-app</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">pkg/nextAuth</span></div>
+                                    <div>on branch <span class="code">feat/git-patches</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2d4298e</div>
-                                        <div class="message">feat(nextAuth): adds session provider</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#44799b2</div>
-                                        <div class="message">feat(nextAuth): updates env schema</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#71e64dd</div>
-                                        <div class="message">feat(nextAuth): adds restricted endpoint example</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7ace778</div>
-                                        <div class="message">feat(nextAuth): adds Discord integration</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f785df8</div>
-                                        <div class="message">feat(nextAuth): adds boilerplate</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fd22d1d</div>
-                                        <div class="message">feat(nextAuth): adds dependencies</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fe3bd76</div>
-                                        <div class="message">feat(base): basic project</div>
+                                        <div class="sha">#b328f89</div>
+                                        <div class="message">fix(cli/patches): ci is not a "git person"</div>
                                     </div>
                                 </div>
                             </section>
@@ -67,119 +43,27 @@ svg { color: #8b949e }</style>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 7 commits in
-                                        <span class="repo">minsk-dev/create-t3-app-template</span>
+                                        Pushed 4 commits in
+                                        <span class="repo">minsk-dev/create-t3-app</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">pkg/prisma</span></div>
+                                    <div>on branch <span class="code">feat/git-patches</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e269b90</div>
-                                        <div class="message">feat(prisma): adds schema</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#632710a</div>
-                                        <div class="message">feat(prisma): adds boilerplate</div>
+                                        <div class="sha">#856f341</div>
+                                        <div class="message">fix(cli/patches): wrong constructor arguments</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d2c96eb</div>
-                                        <div class="message">feat(prisma): adds `postinstall` script</div>
+                                        <div class="sha">#ebf2a87</div>
+                                        <div class="message">feat(cli/patches): adds `trpc`</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#4dcff37</div>
-                                        <div class="message">feat(prisma): adds example endpoint</div>
+                                        <div class="sha">#a399cc2</div>
+                                        <div class="message">feat(cli/patches): adds `tailwind`</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#aebd7c8</div>
-                                        <div class="message">feat(prisma): updates env schema</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#28e8a80</div>
-                                        <div class="message">feat(prisma): adds dependencies</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fe3bd76</div>
-                                        <div class="message">feat(base): basic project</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 6 commits in
-                                        <span class="repo">minsk-dev/create-t3-app-template</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">pkg/tailwind</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c8b59c0</div>
-                                        <div class="message">feat(tailwind): updates `index.tsx`</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4b0ffad</div>
-                                        <div class="message">feat(tailwind): imports tailwind</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4b0d72d</div>
-                                        <div class="message">feat(tailwind): removes css</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#00c5b16</div>
-                                        <div class="message">feat(tailwind): adds boilerplate</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4fd2874</div>
-                                        <div class="message">feat(tailwind): adds dependencies</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fe3bd76</div>
-                                        <div class="message">feat(base): basic project</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 6 commits in
-                                        <span class="repo">minsk-dev/create-t3-app-template</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">pkg/trpc</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2b7a6c7</div>
-                                        <div class="message">feat(trpc): finishes setup</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a63e358</div>
-                                        <div class="message">feat(trpc): adds example usage</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3f0089c</div>
-                                        <div class="message">feat(trpc): adds router</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#846a888</div>
-                                        <div class="message">feat(trpc): adds boilerplate</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d357325</div>
-                                        <div class="message">feat(trpc): adds dependencies</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fe3bd76</div>
-                                        <div class="message">feat(base): basic project</div>
+                                        <div class="sha">#8ae77e5</div>
+                                        <div class="message">feat(cli): patch logic</div>
                                     </div>
                                 </div>
                             </section>
@@ -191,11 +75,59 @@ svg { color: #8b949e }</style>
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Created new
+                                        Deleted
                       branch
-                                        <span class="code">main</span>
+                                        <span class="code">pkg/trpc+nextAuth</span>
                                         in
-                                        <span class="repo">minsk-dev/t3-example</span>
+                                        <span class="repo">minsk-dev/create-t3-app-template</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">minsk-dev/create-t3-app</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feat/git-patches</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d580ad4</div>
+                                        <div class="message">feat(cli/patches): adds `prisma`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4ac8462</div>
+                                        <div class="message">feat(cli/patches): adds `nextAuth`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c7c4439</div>
+                                        <div class="message">feat(cli/patches): moves to patches</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">minsk-dev/create-t3-app-template</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fe3bd76</div>
+                                        <div class="message">feat(base): basic project</div>
                                     </div>
                                 </div>
                             </section>
