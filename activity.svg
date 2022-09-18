@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="350" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="411" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{display:inline-block}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style>h1, h2 { color: #c9d1d9}
 svg { color: #8b949e }</style>
     <foreignObject x="0" y="0" width="100%" height="100%">
@@ -24,7 +24,7 @@ svg { color: #8b949e }</style>
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">rayon-rs/rayon</span>
+                                        <span class="repo">eslint/generator-eslint</span>
                                     </div>
                                 </div>
                             </section>
@@ -33,23 +33,18 @@ svg { color: #8b949e }</style>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">#454 bug: can't install with `yarn@2`</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">minsk-dev/t3-tools</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by minsk-dev in <span class="repo">t3-oss/create-t3-app</span></div>
-                                    <div class="comment">
-                                        <i>
-                                            <i>
-                                                <code>SyntaxError: Cannot use import statement outside a module</code>
-                                            </i>
-                                            Wow yarn is weird...
-                                        </i>
-                                        Probably because of the way we are making the bundle right now. https://github.com/t3-oss/create-t3-app/blob/main/package.json#L9
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#39bd36f</div>
+                                        <div class="message">fix(env-vars): imports js</div>
                                     </div>
                                 </div>
                             </section>
@@ -58,16 +53,19 @@ svg { color: #8b949e }</style>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">#16 [engine] Internal method to read and convert functions into strings</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">minsk-dev/t3-tools</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by victoriaquasar in <span class="repo">MelonRuntime/Melon</span></div>
-                                    <div class="comment">I............... may do this...................</div>
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0fa7efc</div>
+                                        <div class="message">feat: typesafe environment variables</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -75,46 +73,38 @@ svg { color: #8b949e }</style>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">#454 bug: can't install with `yarn@2`</span>
+                                        Pushed 6 commits in
+                                        <span class="repo">minsk-dev/t3-tools</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by minsk-dev in <span class="repo">t3-oss/create-t3-app</span></div>
-                                    <div class="comment">
-                                        <i>
-                                        </i>
-                                        Does it matter? The generated project is supposed to be the same. Also, looks like
-                                        <code>yarn@2</code>
-                                        can't run the CLI.
-```
-➤ YN0000: ┌ Resolution step
-➤ YN0000: └ Completed in 4s 950ms
-➤ YN0000: ┌ Fetch step
-➤ YN0013: │ sort-package-json@npm:1.57.0 can't be found in the cache and will be fetched from the remote registry
-➤ YN0013: │ tinycolor2@npm:1.4.2 can't be found in the cache and will be fetched from the remote registry
-➤ YN0013: │ tinygradient@npm:1.1.5 can't be found in the cache and will be fetched from the remote registry
-➤ YN0013: │ type-fest@npm:1.4.0 can't be found in the cache and will be fetched from the remote registry
-➤ YN0013: │ wrap-ansi@npm:8.0.1 can't be found in the cache and will be fetched from the remote registry
-➤ YN0000: └ Completed in 1s 276ms
-➤ YN0000: ┌ Link step
-➤ YN0000: └ Completed
-➤ YN0000: Done in 6s 328ms
-/Users/anon/.yarn/berry/cache/create-t3-app-npm-6.0.0-next.2af4bc9-8a4bcf0cd8-7.zip/node_modules/create-t3-app/dist/index.js:2
-import he from"path";import ye from"fs-extra";import b from"path";import J from"fs-extra";import D from"path";import{fileURLToPath as Oe}from"url";var Ne=Oe(import.meta.url),Me=D.dirname(Ne),c=D.join(Me,"../"),$=`   ___ ___ ___   __ _____ ___   _____ ____    __   ___ ___
-^^^^^^
-SyntaxError: Cannot use import statement outside a module
-    at Object.compileFunction (node:vm:360:18)
-    at wrapSafe (node:internal/modules/cjs/loader:1055:15)
-    at Module._compile (node:internal/modules/cjs/loader:1090:27)
-    at Object.Module.extensions..js (node:internal/modules/cjs/loader:1180:10)
-    at Module.load (node:internal/modules/cjs/loader:1004:32)
-    at Function.external_module.Module._load (/private/var/folders/mc/f08wsz9x4ns8fvx3b3bb3x740000gp/T/xfs-5673fae3/dlx-46995/.pnp.js:6021:14)
-    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
-    at node:internal/main/run_main_module:17:47```
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a5b14eb</div>
+                                        <div class="message">feat: "installed packages" check</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ef69627</div>
+                                        <div class="message">feat: logging</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0f5fefb</div>
+                                        <div class="message">feat: moves to `type` `module`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#73ceedf</div>
+                                        <div class="message">feat: `prisma` package</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9306d24</div>
+                                        <div class="message">feat: `nextAuth` package</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f858570</div>
+                                        <div class="message">feat: `tailwind` package</div>
                                     </div>
                                 </div>
                             </section>
@@ -123,11 +113,18 @@ SyntaxError: Cannot use import statement outside a module
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">nadrad/h-m-m</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">minsk-dev/t3-tools</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b1ed21e</div>
+                                        <div class="message">feat: packages and `trpc` package</div>
                                     </div>
                                 </div>
                             </section>
