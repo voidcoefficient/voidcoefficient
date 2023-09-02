@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="645" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="361" class="">
     <defs>
         <style/>
     </defs>
@@ -23,113 +23,23 @@ svg { color: #8b949e }</style>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 16 commits in
+                                        Pushed 3 commits in
                                         <span class="repo">popstand/the-roof-resource</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">feat/link-franchise</span></div>
+                                    <div>on branch <span class="code">TRR-65-emails-attic-inspection-confirmation</span></div>
                                     <div class="commit">
-                                        <div class="sha">#14cd2c3</div>
-                                        <div class="message">Merge branch 'develop' into feat/link-franchise</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 23 commits in
-                                        <span class="repo">popstand/the-roof-resource</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feat/link-franchise</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1b62631</div>
-                                        <div class="message">fix(StepTwo): data race</div>
+                                        <div class="sha">#40fe4f7</div>
+                                        <div class="message">feat(projects/one): email</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#5feabb3</div>
-                                        <div class="message">Merge pull request #84 from popstand/fix/projects-edit-state
-
-Projects - Edit state, Grid</div>
+                                        <div class="sha">#d0beb2a</div>
+                                        <div class="message">Merge branch 'TRR-65-emails-attic-inspection-confirmation' of https://github.com/popstand/the-roof-resource into TRR-65-emails-attic-inspection-confirmation</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#532e7b4</div>
-                                        <div class="message">fix(projects): update grid for step 3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#88d81d3</div>
-                                        <div class="message">fix: req changes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9d82920</div>
-                                        <div class="message">fix(PreliminaryStep): responsive</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b72256f</div>
-                                        <div class="message">fix(PreliminaryStep/UploadInputs): responsive</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e36889a</div>
-                                        <div class="message">fix(UploadFileInput): off by 1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c6732fb</div>
-                                        <div class="message">fix(ProjectHeader/ProjectStat): responsive</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0601508</div>
-                                        <div class="message">fix: req changes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#27626e4</div>
-                                        <div class="message">fix: req changes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a16554c</div>
-                                        <div class="message">fix(projects): update stepper example</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#db9d106</div>
-                                        <div class="message">fix(projects): make steps independent</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e62817d</div>
-                                        <div class="message">fix(projects): adjust grid and editing</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6365f72</div>
-                                        <div class="message">Merge branch 'feat/step-2' of https://github.com/popstand/the-roof-resource into feat/step-2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#21decf1</div>
-                                        <div class="message">feat(StepTwo): time and date</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#947384d</div>
-                                        <div class="message">Merge branch 'develop' into feat/step-2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#15ae3cc</div>
-                                        <div class="message">Merge branch 'develop' into feat/step-2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#be3397e</div>
-                                        <div class="message">Merge branch 'feat/project-steps' into feat/step-2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eceb1ec</div>
-                                        <div class="message">Merge branch 'TRR-87-components-datepicker-hook-form' into feat/step-2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b6000ce</div>
-                                        <div class="message">Merge branch 'TRR-87-components-datepicker-hook-form' into feat/step-2</div>
+                                        <div class="sha">#4d2bcf8</div>
+                                        <div class="message">Merge branch 'develop' into TRR-65-emails-attic-inspection-confirmation</div>
                                     </div>
                                 </div>
                             </section>
@@ -142,12 +52,12 @@ Projects - Edit state, Grid</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#85 General - Link Franchise IDs</span>
+                                        <span class="issue">#90 fix(projects): save only saves</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">popstand/the-roof-resource</span></div>
-                                    <div>14 files changed <span class="code">++177 --40</span></div>
+                                    <div>2 files changed <span class="code">++14 --6</span></div>
                                 </div>
                             </section>
                         </div>
@@ -160,7 +70,7 @@ Projects - Edit state, Grid</div>
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">feat/link-franchise</span>
+                                        <span class="code">hotfix/save-continue</span>
                                         in
                                         <span class="repo">popstand/the-roof-resource</span>
                                     </div>
@@ -174,15 +84,35 @@ Projects - Edit state, Grid</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 19 commits in
                                         <span class="repo">popstand/the-roof-resource</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">feat/step4</span></div>
+                                    <div>on branch <span class="code">feat/step6</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b1c462e</div>
-                                        <div class="message">fix: req changes</div>
+                                        <div class="sha">#5644521</div>
+                                        <div class="message">Merge branch 'develop' into feat/step6</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 19 commits in
+                                        <span class="repo">popstand/the-roof-resource</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feat/new-project</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ecdec90</div>
+                                        <div class="message">Merge branch 'develop' into feat/new-project</div>
                                     </div>
                                 </div>
                             </section>
