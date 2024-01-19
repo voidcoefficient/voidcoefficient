@@ -40,23 +40,6 @@ jobs:
           plugin_achievements_threshold: "A"
           token: ${{ secrets.METRICS_TOKEN }}
 
-  activity:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@main
-        with:
-          filename: activity.svg
-          config_timezone: America/Fortaleza
-          retries: 3
-          retries_delay: 300
-          use_prebuilt_image: yes
-          extras_css: |
-            h1, h2 { color: #c9d1d9}
-            svg { color: #8b949e }
-          base: ""
-          plugin_activity: yes
-          token: ${{ secrets.METRICS_TOKEN }}
-
   habits:
     runs-on: ubuntu-latest
     steps:
