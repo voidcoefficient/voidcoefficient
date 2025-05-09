@@ -1,5 +1,3 @@
-# Marla Albuquerque
-
 Passionate software engineer, started out with [Windows batch scripting](https://en.wikipedia.org/wiki/Batch_file) when I was about 8 years old. Love asian and mediterranean cuisine, jazz, and learning. I play a little bit of bass and the keyboard, but I wouldn't say I know what I am doing yet.
 
 [Void coefficient](https://en.wikipedia.org/wiki/Void_coefficient), my nickname, comes from nuclear engineering and means that I deliver positive impact even when problems bubble up. I have a suspicion that a scientist would find this funny.
